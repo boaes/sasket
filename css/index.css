@@ -373,9 +373,7 @@ article, aside, footer, header, hgroup, main, nav, section {
 		display: block;
 		margin:0 2.5em 0.5em 0em;
 	}
-	#grid[data-columns]::before {
-		/*content: '3 .column .size-1of3';*/
-	}
+	
 	.about-us {
 		width: 49%;
 		float: right;
