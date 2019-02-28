@@ -154,9 +154,6 @@ article, aside, footer, header, hgroup, main, nav, section {
 		/*border: 1px solid green;*/
 		/*border-radius: 10px;*/
 	}
-	#grid[data-columns]::before {
-		/*content: '2 .column .size-1of2';*/
-	}
 	.column {
 		float: left;
 	}
