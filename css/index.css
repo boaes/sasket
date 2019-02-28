@@ -1,7 +1,7 @@
 * {
 	box-sizing: border-box;
 	border: 1px;
-
+	/*border: 1px solid red;*/
 	padding: 0;
 	margin: 0;
 }
@@ -155,7 +155,7 @@ article, aside, footer, header, hgroup, main, nav, section {
 		/*border-radius: 10px;*/
 	}
 	#grid[data-columns]::before {
-		content: '2 .column .size-1of2';
+		/*content: '2 .column .size-1of2';*/
 	}
 	.column {
 		float: left;
@@ -354,6 +354,7 @@ article, aside, footer, header, hgroup, main, nav, section {
 	    text-decoration: none;
 	    color: #fff;
 	    cursor:pointer;
+	    padding: 20px;
 	}
 
 	li a:hover {
@@ -373,7 +374,7 @@ article, aside, footer, header, hgroup, main, nav, section {
 		margin:0 2.5em 0.5em 0em;
 	}
 	#grid[data-columns]::before {
-		content: '3 .column .size-1of3';
+		/*content: '3 .column .size-1of3';*/
 	}
 	.about-us {
 		width: 49%;
